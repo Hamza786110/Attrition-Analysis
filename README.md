@@ -4,6 +4,14 @@
 This project focuses on analyzing employee attrition data using SQL and basic data analysis techniques. The aim is to understand why employees leave an organization and to find patterns related to departments,
 performance, and other factors.
 
+##  Project Structure
+
+- **Data/** → Raw employee dataset used for analysis  
+- **Queries/** → SQL queries written to answer business questions  
+- **Results/** → Output tables / insights generated from queries  
+- **DashBoard/** → Power BI dashboard for visual analysis  
+- **README.md** → Project documentation
+ 
 ## Tools Used  
 - SQL  
 - Excel / CSV Data  
